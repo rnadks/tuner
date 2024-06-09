@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+    font-size: 2em;
+}
+
+label {
+    font-size: 1.5em;
+    margin-right: 10px;
+}
+
+select {
+    font-size: 1.2em;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+button.string {
+    margin: 15px;
+    padding: 20px;
+    border: 1px solid #333;
+    display: inline-block;
+    width: 250px;
+    cursor: pointer;
+    background-color: #fff;
+    transition: background-color 0.3s ease;
+    font-size: 1.5em;
+}
+
+button.string:hover {
+    background-color: #ddd;
+}
+
+
+
+
